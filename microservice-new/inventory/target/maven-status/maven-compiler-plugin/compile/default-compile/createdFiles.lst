@@ -1,0 +1,9 @@
+com\xebia\inventoryservice\InventoryServiceApplication.class
+com\xebia\inventoryservice\model\Inventory.class
+com\xebia\inventoryservice\dto\InventoryResponse.class
+com\xebia\inventoryservice\controller\InventoryController.class
+com\xebia\inventoryservice\repository\InventoryRepository.class
+com\xebia\inventoryservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\xebia\inventoryservice\service\IInventoryService.class
+com\xebia\inventoryservice\model\Inventory$InventoryBuilder.class
+com\xebia\inventoryservice\service\InventoryService.class

@@ -1,0 +1,17 @@
+com\xebia\order\dto\Response.class
+com\xebia\order\dto\OrderRequest$OrderRequestBuilder.class
+com\xebia\order\OrderApplication.class
+com\xebia\order\repository\OrderRepository.class
+com\xebia\order\dto\Response$ResponseBuilder.class
+com\xebia\order\config\WebClientConfig.class
+com\xebia\order\service\OrderService.class
+com\xebia\order\dto\OrderRequest.class
+com\xebia\order\controller\OrderController.class
+com\xebia\order\service\IOrderService.class
+com\xebia\order\dto\InventoryResponse$InventoryResponseBuilder.class
+com\xebia\order\dto\InventoryResponse.class
+com\xebia\order\dto\OrderListItemsDto.class
+com\xebia\order\model\OrderLineItems.class
+com\xebia\order\model\Order.class
+com\xebia\order\dto\Response$ResponseBuilderImpl.class
+com\xebia\order\dto\OrderListItemsDto$OrderListItemsDtoBuilder.class

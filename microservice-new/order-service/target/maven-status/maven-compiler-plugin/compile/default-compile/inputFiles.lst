@@ -1,0 +1,12 @@
+D:\microservice projects\microservice-new\order-service\src\main\java\com\xebia\order\model\OrderLineItems.java
+D:\microservice projects\microservice-new\order-service\src\main\java\com\xebia\order\dto\InventoryResponse.java
+D:\microservice projects\microservice-new\order-service\src\main\java\com\xebia\order\dto\OrderRequest.java
+D:\microservice projects\microservice-new\order-service\src\main\java\com\xebia\order\dto\Response.java
+D:\microservice projects\microservice-new\order-service\src\main\java\com\xebia\order\service\OrderService.java
+D:\microservice projects\microservice-new\order-service\src\main\java\com\xebia\order\model\Order.java
+D:\microservice projects\microservice-new\order-service\src\main\java\com\xebia\order\OrderApplication.java
+D:\microservice projects\microservice-new\order-service\src\main\java\com\xebia\order\service\IOrderService.java
+D:\microservice projects\microservice-new\order-service\src\main\java\com\xebia\order\controller\OrderController.java
+D:\microservice projects\microservice-new\order-service\src\main\java\com\xebia\order\dto\OrderListItemsDto.java
+D:\microservice projects\microservice-new\order-service\src\main\java\com\xebia\order\config\WebClientConfig.java
+D:\microservice projects\microservice-new\order-service\src\main\java\com\xebia\order\repository\OrderRepository.java

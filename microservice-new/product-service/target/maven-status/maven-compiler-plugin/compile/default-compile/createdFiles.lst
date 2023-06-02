@@ -1,0 +1,11 @@
+com\xebia\productservice\model\Product.class
+com\xebia\productservice\service\IProductService.class
+com\xebia\productservice\dto\Response.class
+com\xebia\productservice\model\Product$ProductBuilder.class
+com\xebia\productservice\controller\ProductController.class
+com\xebia\productservice\repository\ProductRepository.class
+com\xebia\productservice\dto\ProductRequest.class
+com\xebia\productservice\ProductServiceApplication.class
+com\xebia\productservice\dto\Response$ResponseBuilder.class
+com\xebia\productservice\service\ProductService.class
+com\xebia\productservice\dto\Response$ResponseBuilderImpl.class
